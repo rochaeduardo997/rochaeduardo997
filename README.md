@@ -17,7 +17,7 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
-  <img align="right"  height="150" style="border-radius:50px;" src="https://thumbs.gfycat.com/EllipticalComplicatedBoilweevil-max-1mb.gif">
+  <img align="right"  height="130" style="border-radius:50px;" src="https://thumbs.gfycat.com/EllipticalComplicatedBoilweevil-max-1mb.gif">
 </div>
   
   ##

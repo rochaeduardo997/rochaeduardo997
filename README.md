@@ -5,6 +5,7 @@
 :house_with_garden: I’m from Fortaleza-CE.<br/>
 :books: I’m currently learning NodeJS, Redis and PostgreSQL.<br/>
 :surfing_man: Live for surf
+:monocle_face: "No one said it was impossible, he went there and did"
 
   ##
   

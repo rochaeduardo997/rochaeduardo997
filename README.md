@@ -16,7 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochaeduardo997&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 <div style="display: inline_block">
-  <br>
+  <br />
   ## Languages
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">

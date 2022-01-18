@@ -2,9 +2,9 @@
 ## Eduardo Rocha
 <img align="right" alt="Profile Views Daniel Vinicius" src="https://komarev.com/ghpvc/?username=rochaeduardo997&color=e05d44" />
 
-:computer: I'm currently Back-end Developer at neWave Telecom.<br/>
+:computer: I'm currently FullStack Developer at neWave Telecom.<br/>
 :house_with_garden: I’m from Fortaleza-CE.<br/>
-:books: I’m currently learning NodeJS with Typescript, Redis, PostgreSQL and SOLID principles.<br/>
+:books: I’m currently learning Node.js and ReactJS with Typescript, Redis, PostgreSQL and SOLID principles.<br/>
 :surfing_man: Live for surf<br/>
 :monocle_face: "No one said it was impossible, he went there and did"
 
@@ -16,9 +16,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochaeduardo997&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/reactjs/reactjs-plain.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
   <img align="right"  height="130" style="border-radius:50px;" src="https://media4.giphy.com/media/5Sph4aGQ9Zf0s/giphy.gif">

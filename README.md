@@ -18,23 +18,14 @@
   
 <div style="display: inline_block">
   <br />
-  <div>
-    Languages
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-  </div>
-  
-  <div>
-    Libs and Frameworks
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  </div>
-  
-  <div>
-    Databases
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg">
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
-  </div>
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
 
   <img align="right"  height="130" style="border-radius:50px;" src="https://media4.giphy.com/media/5Sph4aGQ9Zf0s/giphy.gif">
 </div>

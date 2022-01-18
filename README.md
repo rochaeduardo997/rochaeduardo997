@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## Eduardo Rocha
+<img align="right" alt="Profile Views Daniel Vinicius" src="https://komarev.com/ghpvc/?username=rochaeduardo997&color=e05d44" />
 
 :computer: I'm currently Back-end Developer at neWave Telecom.<br/>
 :house_with_garden: I’m from Fortaleza-CE.<br/>

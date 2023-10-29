@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:framed_picture: Frontend: VueJS(v3), AngularJS(v1.8) and ReactJS(LTS)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:floppy_disk: Databases: PostgreSQL(v9.6 and LTS) and Redis(v5 and LTS)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:building_construction: Architectures: Clean Architecture(Uncle Bob) and Ports and Adapters(Alistar Cockburn)<br/>
-:monocle_face: "No one said it was impossible, he went there and did"
+:monocle_face: "They did not know it was impossible so they did it"
 
   ##
   

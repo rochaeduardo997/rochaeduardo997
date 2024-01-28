@@ -5,10 +5,10 @@
 :computer: I'm currently developer at neWave Telecom.<br/>
 :house_with_garden: I’m from Fortaleza-CE.<br/>
 :books: I’m currently working with:</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:computer: Backend: NodeJS(v10.24 and LTS)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:framed_picture: Frontend: VueJS(v3), AngularJS(v1.8) and ReactJS(LTS)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:floppy_disk: Databases: PostgreSQL(v9.6 and LTS) and Redis(v5 and LTS)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:building_construction: Architectures: Clean Architecture(Uncle Bob) and Ports and Adapters(Alistar Cockburn)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; :computer: Backend: NodeJS(v10.24 and LTS)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; :framed_picture: Frontend: VueJS(v3), AngularJS(v1.8) and ReactJS(LTS)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; :floppy_disk: Databases: PostgreSQL(v9.6 and LTS) and Redis(v5 and LTS)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; :building_construction: Architectures: Clean Architecture(Uncle Bob) and Ports and Adapters(Alistar Cockburn)<br/>
 :monocle_face: "They did not know it was impossible so they did it"
 
   ##

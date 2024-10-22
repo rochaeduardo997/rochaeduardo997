@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; :computer: Backend: Node.js<br/>
 &nbsp;&nbsp;&nbsp;&nbsp; :framed_picture: Frontend: ReactJS<br/>
 &nbsp;&nbsp;&nbsp;&nbsp; :floppy_disk: Databases: PostgreSQL and Redis<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; :building_construction: Architectures: DDD and Ports and Adapters<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; :building_construction: Architectures: Clean Architecture and Ports and Adapters<br/>
 :monocle_face: "They did not know it was impossible so they did it"
   ##
  <br/>

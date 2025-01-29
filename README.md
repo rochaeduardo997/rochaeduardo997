@@ -5,10 +5,10 @@
 <!--:computer: I'm currently developer at neWave Telecom.<br/>-->
 :house_with_garden: From Fortaleza-CE.<br/>
 :books: Currently working with:</br>
-&nbsp;&nbsp;&nbsp;&nbsp; :computer: Backend: Node.js<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; :framed_picture: Frontend: ReactJS<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; :floppy_disk: Databases: PostgreSQL and Redis<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; :building_construction: Architectures: Clean Architecture and Ports and Adapters<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; :computer: Backend: Node.js, NestJS<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; :framed_picture: Frontend: ReactJS, Next.js<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; :floppy_disk: Databases: SQL Server, SQLite(development mode) and Redis<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; :building_construction: Architectures: DDD, Clean Architecture and Ports and Adapters<br/>
 :monocle_face: "They did not know it was impossible so they did it"
   ##
  <br/>

@@ -1,10 +1,10 @@
-### Hi there 👋
-
-## Eduardo Rocha
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rochaeduardo997&locale=pt_BR&hide_border=true&border_radius=12&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="Sequência" />
 </p>
+
+### Hi there 👋
+
+## Eduardo Rocha
 
 <img align="right" alt="Profile Views Eduardo Rocha" src="https://komarev.com/ghpvc/?username=rochaeduardo997&color=e05d44" />
 

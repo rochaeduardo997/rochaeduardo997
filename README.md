@@ -28,3 +28,28 @@ I'm passionate about learning, building things that matter, and working with tea
   <a href="https://www.linkedin.com/in/carlos-eduardo-rocha-lima-70ba3a214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://gitlab.com/rochaeduardo997/" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
 </div>
+
+<br/>
+
+<!-- ============ 04. estatisticas() ============ -->
+<img src="assets/h-estatisticas.svg" width="100%" alt="04. estatisticas()" />
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/stats.svg" /><img width="49%" alt="Estatísticas" src="assets/stats-dark.svg" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/langs.svg" /><img width="49%" alt="Linguagens" src="assets/langs-dark.svg" /></picture>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rochaeduardo997&locale=pt_BR&hide_border=true&border_radius=12&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="Sequência" />
+</p>
+
+<br/>
+
+<!-- ============ 05. contribuicoes() ============ -->
+<img src="assets/h-contribuicoes.svg" width="100%" alt="05. contribuicoes()" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/code-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/code-contribution-graph.svg" />
+  <img width="100%" alt="Contribuições compiladas em binário" src="assets/code-contribution-graph-dark.svg" />
+</picture>

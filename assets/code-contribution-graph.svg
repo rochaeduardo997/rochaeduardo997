@@ -24,144 +24,143 @@ text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
 <text x="441.5" y="26" text-anchor="middle" style="font-size:13px;fill:#57606a">contribuicoes.bin — compilando @rochaeduardo997</text>
 <text x="22" y="66" style="font-size:13px"><tspan fill="#1a7f37">$</tspan><tspan fill="#24292f"> git log --since="1 ano" </tspan><tspan fill="#57606a">| </tspan><tspan fill="#8250df">compilar</tspan><tspan fill="#bc4c00"> --binario</tspan></text>
 <text x="58" y="78" class="m">nov</text>
-<text x="88" y="78" class="m">dez</text>
-<text x="148" y="78" class="m">jan</text>
-<text x="223" y="78" class="m">fev</text>
-<text x="283" y="78" class="m">mar</text>
-<text x="343" y="78" class="m">abr</text>
-<text x="403" y="78" class="m">mai</text>
-<text x="478" y="78" class="m">jun</text>
-<text x="538" y="78" class="m">jul</text>
-<text x="598" y="78" class="m">ago</text>
-<text x="673" y="78" class="m">set</text>
-<text x="733" y="78" class="m">out</text>
-<text x="808" y="78" class="m">nov</text>
+<text x="133" y="78" class="m">jan</text>
+<text x="208" y="78" class="m">fev</text>
+<text x="268" y="78" class="m">mar</text>
+<text x="328" y="78" class="m">abr</text>
+<text x="388" y="78" class="m">mai</text>
+<text x="463" y="78" class="m">jun</text>
+<text x="523" y="78" class="m">jul</text>
+<text x="583" y="78" class="m">ago</text>
+<text x="658" y="78" class="m">set</text>
+<text x="718" y="78" class="m">out</text>
+<text x="793" y="78" class="m">nov</text>
 <text x="46" y="118" class="d" text-anchor="end">seg</text>
 <text x="46" y="148" class="d" text-anchor="end">qua</text>
 <text x="46" y="178" class="d" text-anchor="end">sex</text>
 <text x="65.5" y="103" class="z" style="animation-delay:0.00s">0</text>
-<text x="65.5" y="118" class="c" fill="#30a14e" style="animation-delay:0.00s">1</text>
-<text x="65.5" y="133" class="c" fill="#9be9a8" style="animation-delay:0.00s">1</text>
+<text x="65.5" y="118" class="c" fill="#40c463" style="animation-delay:0.00s">1</text>
+<text x="65.5" y="133" class="c" fill="#40c463" style="animation-delay:0.00s">1</text>
 <text x="65.5" y="148" class="c" fill="#40c463" style="animation-delay:0.00s">1</text>
-<text x="65.5" y="163" class="z" style="animation-delay:0.00s">0</text>
-<text x="65.5" y="178" class="c" fill="#30a14e" style="animation-delay:0.00s">1</text>
+<text x="65.5" y="163" class="c" fill="#9be9a8" style="animation-delay:0.00s">1</text>
+<text x="65.5" y="178" class="c" fill="#9be9a8" style="animation-delay:0.00s">1</text>
 <text x="65.5" y="193" class="z" style="animation-delay:0.00s">0</text>
 <text x="80.5" y="103" class="z" style="animation-delay:0.17s">0</text>
 <text x="80.5" y="118" class="c" fill="#40c463" style="animation-delay:0.17s">1</text>
-<text x="80.5" y="133" class="c" fill="#40c463" style="animation-delay:0.17s">1</text>
-<text x="80.5" y="148" class="c" fill="#40c463" style="animation-delay:0.17s">1</text>
-<text x="80.5" y="163" class="c" fill="#9be9a8" style="animation-delay:0.17s">1</text>
+<text x="80.5" y="133" class="c" fill="#9be9a8" style="animation-delay:0.17s">1</text>
+<text x="80.5" y="148" class="c" fill="#9be9a8" style="animation-delay:0.17s">1</text>
+<text x="80.5" y="163" class="z" style="animation-delay:0.17s">0</text>
 <text x="80.5" y="178" class="c" fill="#9be9a8" style="animation-delay:0.17s">1</text>
 <text x="80.5" y="193" class="z" style="animation-delay:0.17s">0</text>
 <text x="95.5" y="103" class="z" style="animation-delay:0.34s">0</text>
-<text x="95.5" y="118" class="c" fill="#40c463" style="animation-delay:0.34s">1</text>
+<text x="95.5" y="118" class="c" fill="#9be9a8" style="animation-delay:0.34s">1</text>
 <text x="95.5" y="133" class="c" fill="#9be9a8" style="animation-delay:0.34s">1</text>
 <text x="95.5" y="148" class="c" fill="#9be9a8" style="animation-delay:0.34s">1</text>
-<text x="95.5" y="163" class="z" style="animation-delay:0.34s">0</text>
-<text x="95.5" y="178" class="c" fill="#9be9a8" style="animation-delay:0.34s">1</text>
+<text x="95.5" y="163" class="c" fill="#9be9a8" style="animation-delay:0.34s">1</text>
+<text x="95.5" y="178" class="z" style="animation-delay:0.34s">0</text>
 <text x="95.5" y="193" class="z" style="animation-delay:0.34s">0</text>
 <text x="110.5" y="103" class="z" style="animation-delay:0.51s">0</text>
 <text x="110.5" y="118" class="c" fill="#9be9a8" style="animation-delay:0.51s">1</text>
 <text x="110.5" y="133" class="c" fill="#9be9a8" style="animation-delay:0.51s">1</text>
 <text x="110.5" y="148" class="c" fill="#9be9a8" style="animation-delay:0.51s">1</text>
 <text x="110.5" y="163" class="c" fill="#9be9a8" style="animation-delay:0.51s">1</text>
-<text x="110.5" y="178" class="z" style="animation-delay:0.51s">0</text>
+<text x="110.5" y="178" class="c" fill="#9be9a8" style="animation-delay:0.51s">1</text>
 <text x="110.5" y="193" class="z" style="animation-delay:0.51s">0</text>
 <text x="125.5" y="103" class="z" style="animation-delay:0.68s">0</text>
 <text x="125.5" y="118" class="c" fill="#9be9a8" style="animation-delay:0.68s">1</text>
-<text x="125.5" y="133" class="c" fill="#9be9a8" style="animation-delay:0.68s">1</text>
-<text x="125.5" y="148" class="c" fill="#9be9a8" style="animation-delay:0.68s">1</text>
-<text x="125.5" y="163" class="c" fill="#9be9a8" style="animation-delay:0.68s">1</text>
-<text x="125.5" y="178" class="c" fill="#9be9a8" style="animation-delay:0.68s">1</text>
+<text x="125.5" y="133" class="z" style="animation-delay:0.68s">0</text>
+<text x="125.5" y="148" class="z" style="animation-delay:0.68s">0</text>
+<text x="125.5" y="163" class="z" style="animation-delay:0.68s">0</text>
+<text x="125.5" y="178" class="z" style="animation-delay:0.68s">0</text>
 <text x="125.5" y="193" class="z" style="animation-delay:0.68s">0</text>
 <text x="140.5" y="103" class="z" style="animation-delay:0.85s">0</text>
-<text x="140.5" y="118" class="c" fill="#9be9a8" style="animation-delay:0.85s">1</text>
+<text x="140.5" y="118" class="z" style="animation-delay:0.85s">0</text>
 <text x="140.5" y="133" class="z" style="animation-delay:0.85s">0</text>
 <text x="140.5" y="148" class="z" style="animation-delay:0.85s">0</text>
 <text x="140.5" y="163" class="z" style="animation-delay:0.85s">0</text>
 <text x="140.5" y="178" class="z" style="animation-delay:0.85s">0</text>
 <text x="140.5" y="193" class="z" style="animation-delay:0.85s">0</text>
 <text x="155.5" y="103" class="z" style="animation-delay:1.02s">0</text>
-<text x="155.5" y="118" class="z" style="animation-delay:1.02s">0</text>
-<text x="155.5" y="133" class="z" style="animation-delay:1.02s">0</text>
-<text x="155.5" y="148" class="z" style="animation-delay:1.02s">0</text>
-<text x="155.5" y="163" class="z" style="animation-delay:1.02s">0</text>
-<text x="155.5" y="178" class="z" style="animation-delay:1.02s">0</text>
+<text x="155.5" y="118" class="c" fill="#9be9a8" style="animation-delay:1.02s">1</text>
+<text x="155.5" y="133" class="c" fill="#9be9a8" style="animation-delay:1.02s">1</text>
+<text x="155.5" y="148" class="c" fill="#9be9a8" style="animation-delay:1.02s">1</text>
+<text x="155.5" y="163" class="c" fill="#9be9a8" style="animation-delay:1.02s">1</text>
+<text x="155.5" y="178" class="c" fill="#9be9a8" style="animation-delay:1.02s">1</text>
 <text x="155.5" y="193" class="z" style="animation-delay:1.02s">0</text>
 <text x="170.5" y="103" class="z" style="animation-delay:1.19s">0</text>
 <text x="170.5" y="118" class="c" fill="#9be9a8" style="animation-delay:1.19s">1</text>
 <text x="170.5" y="133" class="c" fill="#9be9a8" style="animation-delay:1.19s">1</text>
-<text x="170.5" y="148" class="c" fill="#9be9a8" style="animation-delay:1.19s">1</text>
+<text x="170.5" y="148" class="z" style="animation-delay:1.19s">0</text>
 <text x="170.5" y="163" class="c" fill="#9be9a8" style="animation-delay:1.19s">1</text>
-<text x="170.5" y="178" class="c" fill="#9be9a8" style="animation-delay:1.19s">1</text>
+<text x="170.5" y="178" class="z" style="animation-delay:1.19s">0</text>
 <text x="170.5" y="193" class="z" style="animation-delay:1.19s">0</text>
 <text x="185.5" y="103" class="z" style="animation-delay:1.36s">0</text>
-<text x="185.5" y="118" class="c" fill="#9be9a8" style="animation-delay:1.36s">1</text>
-<text x="185.5" y="133" class="c" fill="#9be9a8" style="animation-delay:1.36s">1</text>
+<text x="185.5" y="118" class="z" style="animation-delay:1.36s">0</text>
+<text x="185.5" y="133" class="z" style="animation-delay:1.36s">0</text>
 <text x="185.5" y="148" class="z" style="animation-delay:1.36s">0</text>
 <text x="185.5" y="163" class="c" fill="#9be9a8" style="animation-delay:1.36s">1</text>
-<text x="185.5" y="178" class="z" style="animation-delay:1.36s">0</text>
+<text x="185.5" y="178" class="c" fill="#40c463" style="animation-delay:1.36s">1</text>
 <text x="185.5" y="193" class="z" style="animation-delay:1.36s">0</text>
-<text x="200.5" y="103" class="z" style="animation-delay:1.53s">0</text>
-<text x="200.5" y="118" class="z" style="animation-delay:1.53s">0</text>
-<text x="200.5" y="133" class="z" style="animation-delay:1.53s">0</text>
-<text x="200.5" y="148" class="z" style="animation-delay:1.53s">0</text>
+<text x="200.5" y="103" class="c" fill="#9be9a8" style="animation-delay:1.53s">1</text>
+<text x="200.5" y="118" class="c" fill="#40c463" style="animation-delay:1.53s">1</text>
+<text x="200.5" y="133" class="c" fill="#9be9a8" style="animation-delay:1.53s">1</text>
+<text x="200.5" y="148" class="c" fill="#40c463" style="animation-delay:1.53s">1</text>
 <text x="200.5" y="163" class="c" fill="#9be9a8" style="animation-delay:1.53s">1</text>
-<text x="200.5" y="178" class="c" fill="#40c463" style="animation-delay:1.53s">1</text>
-<text x="200.5" y="193" class="z" style="animation-delay:1.53s">0</text>
-<text x="215.5" y="103" class="c" fill="#9be9a8" style="animation-delay:1.70s">1</text>
-<text x="215.5" y="118" class="c" fill="#40c463" style="animation-delay:1.70s">1</text>
+<text x="200.5" y="178" class="c" fill="#9be9a8" style="animation-delay:1.53s">1</text>
+<text x="200.5" y="193" class="c" fill="#9be9a8" style="animation-delay:1.53s">1</text>
+<text x="215.5" y="103" class="z" style="animation-delay:1.70s">0</text>
+<text x="215.5" y="118" class="c" fill="#9be9a8" style="animation-delay:1.70s">1</text>
 <text x="215.5" y="133" class="c" fill="#9be9a8" style="animation-delay:1.70s">1</text>
-<text x="215.5" y="148" class="c" fill="#40c463" style="animation-delay:1.70s">1</text>
+<text x="215.5" y="148" class="c" fill="#9be9a8" style="animation-delay:1.70s">1</text>
 <text x="215.5" y="163" class="c" fill="#9be9a8" style="animation-delay:1.70s">1</text>
 <text x="215.5" y="178" class="c" fill="#9be9a8" style="animation-delay:1.70s">1</text>
 <text x="215.5" y="193" class="c" fill="#9be9a8" style="animation-delay:1.70s">1</text>
-<text x="230.5" y="103" class="z" style="animation-delay:1.87s">0</text>
+<text x="230.5" y="103" class="c" fill="#9be9a8" style="animation-delay:1.87s">1</text>
 <text x="230.5" y="118" class="c" fill="#9be9a8" style="animation-delay:1.87s">1</text>
-<text x="230.5" y="133" class="c" fill="#9be9a8" style="animation-delay:1.87s">1</text>
+<text x="230.5" y="133" class="c" fill="#40c463" style="animation-delay:1.87s">1</text>
 <text x="230.5" y="148" class="c" fill="#9be9a8" style="animation-delay:1.87s">1</text>
-<text x="230.5" y="163" class="c" fill="#9be9a8" style="animation-delay:1.87s">1</text>
-<text x="230.5" y="178" class="c" fill="#9be9a8" style="animation-delay:1.87s">1</text>
-<text x="230.5" y="193" class="c" fill="#9be9a8" style="animation-delay:1.87s">1</text>
-<text x="245.5" y="103" class="c" fill="#9be9a8" style="animation-delay:2.04s">1</text>
-<text x="245.5" y="118" class="c" fill="#9be9a8" style="animation-delay:2.04s">1</text>
+<text x="230.5" y="163" class="c" fill="#40c463" style="animation-delay:1.87s">1</text>
+<text x="230.5" y="178" class="c" fill="#40c463" style="animation-delay:1.87s">1</text>
+<text x="230.5" y="193" class="z" style="animation-delay:1.87s">0</text>
+<text x="245.5" y="103" class="z" style="animation-delay:2.04s">0</text>
+<text x="245.5" y="118" class="z" style="animation-delay:2.04s">0</text>
 <text x="245.5" y="133" class="c" fill="#40c463" style="animation-delay:2.04s">1</text>
 <text x="245.5" y="148" class="c" fill="#9be9a8" style="animation-delay:2.04s">1</text>
-<text x="245.5" y="163" class="c" fill="#40c463" style="animation-delay:2.04s">1</text>
-<text x="245.5" y="178" class="c" fill="#40c463" style="animation-delay:2.04s">1</text>
+<text x="245.5" y="163" class="z" style="animation-delay:2.04s">0</text>
+<text x="245.5" y="178" class="c" fill="#9be9a8" style="animation-delay:2.04s">1</text>
 <text x="245.5" y="193" class="z" style="animation-delay:2.04s">0</text>
 <text x="260.5" y="103" class="z" style="animation-delay:2.21s">0</text>
 <text x="260.5" y="118" class="z" style="animation-delay:2.21s">0</text>
-<text x="260.5" y="133" class="c" fill="#40c463" style="animation-delay:2.21s">1</text>
-<text x="260.5" y="148" class="c" fill="#9be9a8" style="animation-delay:2.21s">1</text>
+<text x="260.5" y="133" class="z" style="animation-delay:2.21s">0</text>
+<text x="260.5" y="148" class="z" style="animation-delay:2.21s">0</text>
 <text x="260.5" y="163" class="z" style="animation-delay:2.21s">0</text>
-<text x="260.5" y="178" class="c" fill="#9be9a8" style="animation-delay:2.21s">1</text>
+<text x="260.5" y="178" class="z" style="animation-delay:2.21s">0</text>
 <text x="260.5" y="193" class="z" style="animation-delay:2.21s">0</text>
 <text x="275.5" y="103" class="z" style="animation-delay:2.38s">0</text>
 <text x="275.5" y="118" class="z" style="animation-delay:2.38s">0</text>
 <text x="275.5" y="133" class="z" style="animation-delay:2.38s">0</text>
 <text x="275.5" y="148" class="z" style="animation-delay:2.38s">0</text>
-<text x="275.5" y="163" class="z" style="animation-delay:2.38s">0</text>
-<text x="275.5" y="178" class="z" style="animation-delay:2.38s">0</text>
-<text x="275.5" y="193" class="z" style="animation-delay:2.38s">0</text>
+<text x="275.5" y="163" class="c" fill="#9be9a8" style="animation-delay:2.38s">1</text>
+<text x="275.5" y="178" class="c" fill="#9be9a8" style="animation-delay:2.38s">1</text>
+<text x="275.5" y="193" class="c" fill="#9be9a8" style="animation-delay:2.38s">1</text>
 <text x="290.5" y="103" class="z" style="animation-delay:2.55s">0</text>
-<text x="290.5" y="118" class="z" style="animation-delay:2.55s">0</text>
-<text x="290.5" y="133" class="z" style="animation-delay:2.55s">0</text>
-<text x="290.5" y="148" class="z" style="animation-delay:2.55s">0</text>
+<text x="290.5" y="118" class="c" fill="#9be9a8" style="animation-delay:2.55s">1</text>
+<text x="290.5" y="133" class="c" fill="#9be9a8" style="animation-delay:2.55s">1</text>
+<text x="290.5" y="148" class="c" fill="#9be9a8" style="animation-delay:2.55s">1</text>
 <text x="290.5" y="163" class="c" fill="#9be9a8" style="animation-delay:2.55s">1</text>
 <text x="290.5" y="178" class="c" fill="#9be9a8" style="animation-delay:2.55s">1</text>
-<text x="290.5" y="193" class="c" fill="#9be9a8" style="animation-delay:2.55s">1</text>
-<text x="305.5" y="103" class="z" style="animation-delay:2.72s">0</text>
+<text x="290.5" y="193" class="z" style="animation-delay:2.55s">0</text>
+<text x="305.5" y="103" class="c" fill="#9be9a8" style="animation-delay:2.72s">1</text>
 <text x="305.5" y="118" class="c" fill="#9be9a8" style="animation-delay:2.72s">1</text>
-<text x="305.5" y="133" class="c" fill="#9be9a8" style="animation-delay:2.72s">1</text>
+<text x="305.5" y="133" class="z" style="animation-delay:2.72s">0</text>
 <text x="305.5" y="148" class="c" fill="#9be9a8" style="animation-delay:2.72s">1</text>
-<text x="305.5" y="163" class="c" fill="#9be9a8" style="animation-delay:2.72s">1</text>
-<text x="305.5" y="178" class="c" fill="#9be9a8" style="animation-delay:2.72s">1</text>
+<text x="305.5" y="163" class="z" style="animation-delay:2.72s">0</text>
+<text x="305.5" y="178" class="z" style="animation-delay:2.72s">0</text>
 <text x="305.5" y="193" class="z" style="animation-delay:2.72s">0</text>
-<text x="320.5" y="103" class="c" fill="#9be9a8" style="animation-delay:2.89s">1</text>
-<text x="320.5" y="118" class="c" fill="#9be9a8" style="animation-delay:2.89s">1</text>
+<text x="320.5" y="103" class="z" style="animation-delay:2.89s">0</text>
+<text x="320.5" y="118" class="z" style="animation-delay:2.89s">0</text>
 <text x="320.5" y="133" class="z" style="animation-delay:2.89s">0</text>
-<text x="320.5" y="148" class="c" fill="#9be9a8" style="animation-delay:2.89s">1</text>
+<text x="320.5" y="148" class="z" style="animation-delay:2.89s">0</text>
 <text x="320.5" y="163" class="z" style="animation-delay:2.89s">0</text>
 <text x="320.5" y="178" class="z" style="animation-delay:2.89s">0</text>
 <text x="320.5" y="193" class="z" style="animation-delay:2.89s">0</text>
@@ -170,244 +169,244 @@ text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
 <text x="335.5" y="133" class="z" style="animation-delay:3.06s">0</text>
 <text x="335.5" y="148" class="z" style="animation-delay:3.06s">0</text>
 <text x="335.5" y="163" class="z" style="animation-delay:3.06s">0</text>
-<text x="335.5" y="178" class="z" style="animation-delay:3.06s">0</text>
+<text x="335.5" y="178" class="c" fill="#9be9a8" style="animation-delay:3.06s">1</text>
 <text x="335.5" y="193" class="z" style="animation-delay:3.06s">0</text>
 <text x="350.5" y="103" class="z" style="animation-delay:3.23s">0</text>
-<text x="350.5" y="118" class="z" style="animation-delay:3.23s">0</text>
-<text x="350.5" y="133" class="z" style="animation-delay:3.23s">0</text>
+<text x="350.5" y="118" class="c" fill="#9be9a8" style="animation-delay:3.23s">1</text>
+<text x="350.5" y="133" class="c" fill="#40c463" style="animation-delay:3.23s">1</text>
 <text x="350.5" y="148" class="z" style="animation-delay:3.23s">0</text>
-<text x="350.5" y="163" class="z" style="animation-delay:3.23s">0</text>
-<text x="350.5" y="178" class="c" fill="#9be9a8" style="animation-delay:3.23s">1</text>
+<text x="350.5" y="163" class="c" fill="#9be9a8" style="animation-delay:3.23s">1</text>
+<text x="350.5" y="178" class="c" fill="#40c463" style="animation-delay:3.23s">1</text>
 <text x="350.5" y="193" class="z" style="animation-delay:3.23s">0</text>
 <text x="365.5" y="103" class="z" style="animation-delay:3.40s">0</text>
-<text x="365.5" y="118" class="c" fill="#9be9a8" style="animation-delay:3.40s">1</text>
-<text x="365.5" y="133" class="c" fill="#40c463" style="animation-delay:3.40s">1</text>
-<text x="365.5" y="148" class="z" style="animation-delay:3.40s">0</text>
-<text x="365.5" y="163" class="c" fill="#9be9a8" style="animation-delay:3.40s">1</text>
-<text x="365.5" y="178" class="c" fill="#40c463" style="animation-delay:3.40s">1</text>
+<text x="365.5" y="118" class="z" style="animation-delay:3.40s">0</text>
+<text x="365.5" y="133" class="z" style="animation-delay:3.40s">0</text>
+<text x="365.5" y="148" class="c" fill="#40c463" style="animation-delay:3.40s">1</text>
+<text x="365.5" y="163" class="c" fill="#40c463" style="animation-delay:3.40s">1</text>
+<text x="365.5" y="178" class="c" fill="#216e39" style="animation-delay:3.40s">1</text>
 <text x="365.5" y="193" class="z" style="animation-delay:3.40s">0</text>
 <text x="380.5" y="103" class="z" style="animation-delay:3.57s">0</text>
-<text x="380.5" y="118" class="z" style="animation-delay:3.57s">0</text>
+<text x="380.5" y="118" class="c" fill="#216e39" style="animation-delay:3.57s">1</text>
 <text x="380.5" y="133" class="z" style="animation-delay:3.57s">0</text>
 <text x="380.5" y="148" class="c" fill="#40c463" style="animation-delay:3.57s">1</text>
-<text x="380.5" y="163" class="c" fill="#40c463" style="animation-delay:3.57s">1</text>
-<text x="380.5" y="178" class="c" fill="#216e39" style="animation-delay:3.57s">1</text>
-<text x="380.5" y="193" class="z" style="animation-delay:3.57s">0</text>
-<text x="395.5" y="103" class="z" style="animation-delay:3.74s">0</text>
-<text x="395.5" y="118" class="c" fill="#216e39" style="animation-delay:3.74s">1</text>
-<text x="395.5" y="133" class="z" style="animation-delay:3.74s">0</text>
-<text x="395.5" y="148" class="c" fill="#40c463" style="animation-delay:3.74s">1</text>
-<text x="395.5" y="163" class="c" fill="#30a14e" style="animation-delay:3.74s">1</text>
-<text x="395.5" y="178" class="c" fill="#30a14e" style="animation-delay:3.74s">1</text>
-<text x="395.5" y="193" class="c" fill="#40c463" style="animation-delay:3.74s">1</text>
-<text x="410.5" y="103" class="c" fill="#40c463" style="animation-delay:3.91s">1</text>
+<text x="380.5" y="163" class="c" fill="#30a14e" style="animation-delay:3.57s">1</text>
+<text x="380.5" y="178" class="c" fill="#30a14e" style="animation-delay:3.57s">1</text>
+<text x="380.5" y="193" class="c" fill="#40c463" style="animation-delay:3.57s">1</text>
+<text x="395.5" y="103" class="c" fill="#40c463" style="animation-delay:3.74s">1</text>
+<text x="395.5" y="118" class="c" fill="#40c463" style="animation-delay:3.74s">1</text>
+<text x="395.5" y="133" class="c" fill="#9be9a8" style="animation-delay:3.74s">1</text>
+<text x="395.5" y="148" class="c" fill="#9be9a8" style="animation-delay:3.74s">1</text>
+<text x="395.5" y="163" class="c" fill="#9be9a8" style="animation-delay:3.74s">1</text>
+<text x="395.5" y="178" class="z" style="animation-delay:3.74s">0</text>
+<text x="395.5" y="193" class="c" fill="#9be9a8" style="animation-delay:3.74s">1</text>
+<text x="410.5" y="103" class="z" style="animation-delay:3.91s">0</text>
 <text x="410.5" y="118" class="c" fill="#40c463" style="animation-delay:3.91s">1</text>
-<text x="410.5" y="133" class="c" fill="#9be9a8" style="animation-delay:3.91s">1</text>
-<text x="410.5" y="148" class="c" fill="#9be9a8" style="animation-delay:3.91s">1</text>
+<text x="410.5" y="133" class="c" fill="#30a14e" style="animation-delay:3.91s">1</text>
+<text x="410.5" y="148" class="z" style="animation-delay:3.91s">0</text>
 <text x="410.5" y="163" class="c" fill="#9be9a8" style="animation-delay:3.91s">1</text>
-<text x="410.5" y="178" class="z" style="animation-delay:3.91s">0</text>
-<text x="410.5" y="193" class="c" fill="#9be9a8" style="animation-delay:3.91s">1</text>
-<text x="425.5" y="103" class="z" style="animation-delay:4.08s">0</text>
-<text x="425.5" y="118" class="c" fill="#40c463" style="animation-delay:4.08s">1</text>
+<text x="410.5" y="178" class="c" fill="#40c463" style="animation-delay:3.91s">1</text>
+<text x="410.5" y="193" class="z" style="animation-delay:3.91s">0</text>
+<text x="425.5" y="103" class="c" fill="#40c463" style="animation-delay:4.08s">1</text>
+<text x="425.5" y="118" class="c" fill="#30a14e" style="animation-delay:4.08s">1</text>
 <text x="425.5" y="133" class="c" fill="#30a14e" style="animation-delay:4.08s">1</text>
 <text x="425.5" y="148" class="z" style="animation-delay:4.08s">0</text>
-<text x="425.5" y="163" class="c" fill="#9be9a8" style="animation-delay:4.08s">1</text>
-<text x="425.5" y="178" class="c" fill="#40c463" style="animation-delay:4.08s">1</text>
-<text x="425.5" y="193" class="z" style="animation-delay:4.08s">0</text>
-<text x="440.5" y="103" class="c" fill="#40c463" style="animation-delay:4.25s">1</text>
-<text x="440.5" y="118" class="c" fill="#30a14e" style="animation-delay:4.25s">1</text>
-<text x="440.5" y="133" class="c" fill="#30a14e" style="animation-delay:4.25s">1</text>
+<text x="425.5" y="163" class="c" fill="#30a14e" style="animation-delay:4.08s">1</text>
+<text x="425.5" y="178" class="c" fill="#30a14e" style="animation-delay:4.08s">1</text>
+<text x="425.5" y="193" class="c" fill="#9be9a8" style="animation-delay:4.08s">1</text>
+<text x="440.5" y="103" class="c" fill="#9be9a8" style="animation-delay:4.25s">1</text>
+<text x="440.5" y="118" class="c" fill="#40c463" style="animation-delay:4.25s">1</text>
+<text x="440.5" y="133" class="c" fill="#40c463" style="animation-delay:4.25s">1</text>
 <text x="440.5" y="148" class="z" style="animation-delay:4.25s">0</text>
-<text x="440.5" y="163" class="c" fill="#30a14e" style="animation-delay:4.25s">1</text>
-<text x="440.5" y="178" class="c" fill="#30a14e" style="animation-delay:4.25s">1</text>
-<text x="440.5" y="193" class="c" fill="#9be9a8" style="animation-delay:4.25s">1</text>
-<text x="455.5" y="103" class="c" fill="#9be9a8" style="animation-delay:4.42s">1</text>
+<text x="440.5" y="163" class="c" fill="#40c463" style="animation-delay:4.25s">1</text>
+<text x="440.5" y="178" class="c" fill="#9be9a8" style="animation-delay:4.25s">1</text>
+<text x="440.5" y="193" class="c" fill="#40c463" style="animation-delay:4.25s">1</text>
+<text x="455.5" y="103" class="c" fill="#40c463" style="animation-delay:4.42s">1</text>
 <text x="455.5" y="118" class="c" fill="#40c463" style="animation-delay:4.42s">1</text>
 <text x="455.5" y="133" class="c" fill="#40c463" style="animation-delay:4.42s">1</text>
 <text x="455.5" y="148" class="z" style="animation-delay:4.42s">0</text>
 <text x="455.5" y="163" class="c" fill="#40c463" style="animation-delay:4.42s">1</text>
 <text x="455.5" y="178" class="c" fill="#9be9a8" style="animation-delay:4.42s">1</text>
-<text x="455.5" y="193" class="c" fill="#40c463" style="animation-delay:4.42s">1</text>
-<text x="470.5" y="103" class="c" fill="#40c463" style="animation-delay:4.58s">1</text>
-<text x="470.5" y="118" class="c" fill="#40c463" style="animation-delay:4.58s">1</text>
-<text x="470.5" y="133" class="c" fill="#40c463" style="animation-delay:4.58s">1</text>
-<text x="470.5" y="148" class="z" style="animation-delay:4.58s">0</text>
-<text x="470.5" y="163" class="c" fill="#40c463" style="animation-delay:4.58s">1</text>
-<text x="470.5" y="178" class="c" fill="#9be9a8" style="animation-delay:4.58s">1</text>
-<text x="470.5" y="193" class="c" fill="#9be9a8" style="animation-delay:4.58s">1</text>
-<text x="485.5" y="103" class="c" fill="#9be9a8" style="animation-delay:4.75s">1</text>
-<text x="485.5" y="118" class="z" style="animation-delay:4.75s">0</text>
+<text x="455.5" y="193" class="c" fill="#9be9a8" style="animation-delay:4.42s">1</text>
+<text x="470.5" y="103" class="c" fill="#9be9a8" style="animation-delay:4.58s">1</text>
+<text x="470.5" y="118" class="z" style="animation-delay:4.58s">0</text>
+<text x="470.5" y="133" class="z" style="animation-delay:4.58s">0</text>
+<text x="470.5" y="148" class="c" fill="#9be9a8" style="animation-delay:4.58s">1</text>
+<text x="470.5" y="163" class="c" fill="#9be9a8" style="animation-delay:4.58s">1</text>
+<text x="470.5" y="178" class="c" fill="#40c463" style="animation-delay:4.58s">1</text>
+<text x="470.5" y="193" class="z" style="animation-delay:4.58s">0</text>
+<text x="485.5" y="103" class="z" style="animation-delay:4.75s">0</text>
+<text x="485.5" y="118" class="c" fill="#40c463" style="animation-delay:4.75s">1</text>
 <text x="485.5" y="133" class="z" style="animation-delay:4.75s">0</text>
 <text x="485.5" y="148" class="c" fill="#9be9a8" style="animation-delay:4.75s">1</text>
-<text x="485.5" y="163" class="c" fill="#9be9a8" style="animation-delay:4.75s">1</text>
+<text x="485.5" y="163" class="c" fill="#30a14e" style="animation-delay:4.75s">1</text>
 <text x="485.5" y="178" class="c" fill="#40c463" style="animation-delay:4.75s">1</text>
-<text x="485.5" y="193" class="z" style="animation-delay:4.75s">0</text>
+<text x="485.5" y="193" class="c" fill="#40c463" style="animation-delay:4.75s">1</text>
 <text x="500.5" y="103" class="z" style="animation-delay:4.92s">0</text>
-<text x="500.5" y="118" class="c" fill="#40c463" style="animation-delay:4.92s">1</text>
-<text x="500.5" y="133" class="z" style="animation-delay:4.92s">0</text>
-<text x="500.5" y="148" class="c" fill="#9be9a8" style="animation-delay:4.92s">1</text>
-<text x="500.5" y="163" class="c" fill="#30a14e" style="animation-delay:4.92s">1</text>
-<text x="500.5" y="178" class="c" fill="#40c463" style="animation-delay:4.92s">1</text>
-<text x="500.5" y="193" class="c" fill="#40c463" style="animation-delay:4.92s">1</text>
+<text x="500.5" y="118" class="c" fill="#216e39" style="animation-delay:4.92s">1</text>
+<text x="500.5" y="133" class="c" fill="#9be9a8" style="animation-delay:4.92s">1</text>
+<text x="500.5" y="148" class="c" fill="#40c463" style="animation-delay:4.92s">1</text>
+<text x="500.5" y="163" class="c" fill="#216e39" style="animation-delay:4.92s">1</text>
+<text x="500.5" y="178" class="c" fill="#216e39" style="animation-delay:4.92s">1</text>
+<text x="500.5" y="193" class="c" fill="#30a14e" style="animation-delay:4.92s">1</text>
 <text x="515.5" y="103" class="z" style="animation-delay:5.09s">0</text>
 <text x="515.5" y="118" class="c" fill="#216e39" style="animation-delay:5.09s">1</text>
 <text x="515.5" y="133" class="c" fill="#9be9a8" style="animation-delay:5.09s">1</text>
-<text x="515.5" y="148" class="c" fill="#40c463" style="animation-delay:5.09s">1</text>
-<text x="515.5" y="163" class="c" fill="#216e39" style="animation-delay:5.09s">1</text>
-<text x="515.5" y="178" class="c" fill="#216e39" style="animation-delay:5.09s">1</text>
-<text x="515.5" y="193" class="c" fill="#30a14e" style="animation-delay:5.09s">1</text>
+<text x="515.5" y="148" class="c" fill="#216e39" style="animation-delay:5.09s">1</text>
+<text x="515.5" y="163" class="c" fill="#40c463" style="animation-delay:5.09s">1</text>
+<text x="515.5" y="178" class="c" fill="#40c463" style="animation-delay:5.09s">1</text>
+<text x="515.5" y="193" class="c" fill="#40c463" style="animation-delay:5.09s">1</text>
 <text x="530.5" y="103" class="z" style="animation-delay:5.26s">0</text>
-<text x="530.5" y="118" class="c" fill="#216e39" style="animation-delay:5.26s">1</text>
+<text x="530.5" y="118" class="c" fill="#40c463" style="animation-delay:5.26s">1</text>
 <text x="530.5" y="133" class="c" fill="#9be9a8" style="animation-delay:5.26s">1</text>
-<text x="530.5" y="148" class="c" fill="#216e39" style="animation-delay:5.26s">1</text>
-<text x="530.5" y="163" class="c" fill="#40c463" style="animation-delay:5.26s">1</text>
-<text x="530.5" y="178" class="c" fill="#40c463" style="animation-delay:5.26s">1</text>
-<text x="530.5" y="193" class="c" fill="#40c463" style="animation-delay:5.26s">1</text>
-<text x="545.5" y="103" class="z" style="animation-delay:5.43s">0</text>
+<text x="530.5" y="148" class="c" fill="#40c463" style="animation-delay:5.26s">1</text>
+<text x="530.5" y="163" class="c" fill="#30a14e" style="animation-delay:5.26s">1</text>
+<text x="530.5" y="178" class="c" fill="#30a14e" style="animation-delay:5.26s">1</text>
+<text x="530.5" y="193" class="c" fill="#9be9a8" style="animation-delay:5.26s">1</text>
+<text x="545.5" y="103" class="c" fill="#9be9a8" style="animation-delay:5.43s">1</text>
 <text x="545.5" y="118" class="c" fill="#40c463" style="animation-delay:5.43s">1</text>
 <text x="545.5" y="133" class="c" fill="#9be9a8" style="animation-delay:5.43s">1</text>
-<text x="545.5" y="148" class="c" fill="#40c463" style="animation-delay:5.43s">1</text>
-<text x="545.5" y="163" class="c" fill="#30a14e" style="animation-delay:5.43s">1</text>
-<text x="545.5" y="178" class="c" fill="#30a14e" style="animation-delay:5.43s">1</text>
-<text x="545.5" y="193" class="c" fill="#9be9a8" style="animation-delay:5.43s">1</text>
-<text x="560.5" y="103" class="c" fill="#9be9a8" style="animation-delay:5.60s">1</text>
-<text x="560.5" y="118" class="c" fill="#40c463" style="animation-delay:5.60s">1</text>
+<text x="545.5" y="148" class="c" fill="#9be9a8" style="animation-delay:5.43s">1</text>
+<text x="545.5" y="163" class="c" fill="#9be9a8" style="animation-delay:5.43s">1</text>
+<text x="545.5" y="178" class="c" fill="#40c463" style="animation-delay:5.43s">1</text>
+<text x="545.5" y="193" class="c" fill="#40c463" style="animation-delay:5.43s">1</text>
+<text x="560.5" y="103" class="z" style="animation-delay:5.60s">0</text>
+<text x="560.5" y="118" class="c" fill="#30a14e" style="animation-delay:5.60s">1</text>
 <text x="560.5" y="133" class="c" fill="#9be9a8" style="animation-delay:5.60s">1</text>
-<text x="560.5" y="148" class="c" fill="#9be9a8" style="animation-delay:5.60s">1</text>
+<text x="560.5" y="148" class="c" fill="#40c463" style="animation-delay:5.60s">1</text>
 <text x="560.5" y="163" class="c" fill="#9be9a8" style="animation-delay:5.60s">1</text>
-<text x="560.5" y="178" class="c" fill="#40c463" style="animation-delay:5.60s">1</text>
-<text x="560.5" y="193" class="c" fill="#40c463" style="animation-delay:5.60s">1</text>
+<text x="560.5" y="178" class="c" fill="#9be9a8" style="animation-delay:5.60s">1</text>
+<text x="560.5" y="193" class="c" fill="#9be9a8" style="animation-delay:5.60s">1</text>
 <text x="575.5" y="103" class="z" style="animation-delay:5.77s">0</text>
 <text x="575.5" y="118" class="c" fill="#30a14e" style="animation-delay:5.77s">1</text>
-<text x="575.5" y="133" class="c" fill="#9be9a8" style="animation-delay:5.77s">1</text>
-<text x="575.5" y="148" class="c" fill="#40c463" style="animation-delay:5.77s">1</text>
+<text x="575.5" y="133" class="c" fill="#40c463" style="animation-delay:5.77s">1</text>
+<text x="575.5" y="148" class="c" fill="#30a14e" style="animation-delay:5.77s">1</text>
 <text x="575.5" y="163" class="c" fill="#9be9a8" style="animation-delay:5.77s">1</text>
-<text x="575.5" y="178" class="c" fill="#9be9a8" style="animation-delay:5.77s">1</text>
+<text x="575.5" y="178" class="c" fill="#40c463" style="animation-delay:5.77s">1</text>
 <text x="575.5" y="193" class="c" fill="#9be9a8" style="animation-delay:5.77s">1</text>
-<text x="590.5" y="103" class="z" style="animation-delay:5.94s">0</text>
-<text x="590.5" y="118" class="c" fill="#30a14e" style="animation-delay:5.94s">1</text>
+<text x="590.5" y="103" class="c" fill="#9be9a8" style="animation-delay:5.94s">1</text>
+<text x="590.5" y="118" class="c" fill="#40c463" style="animation-delay:5.94s">1</text>
 <text x="590.5" y="133" class="c" fill="#40c463" style="animation-delay:5.94s">1</text>
-<text x="590.5" y="148" class="c" fill="#30a14e" style="animation-delay:5.94s">1</text>
+<text x="590.5" y="148" class="c" fill="#40c463" style="animation-delay:5.94s">1</text>
 <text x="590.5" y="163" class="c" fill="#9be9a8" style="animation-delay:5.94s">1</text>
 <text x="590.5" y="178" class="c" fill="#40c463" style="animation-delay:5.94s">1</text>
-<text x="590.5" y="193" class="c" fill="#9be9a8" style="animation-delay:5.94s">1</text>
-<text x="605.5" y="103" class="c" fill="#9be9a8" style="animation-delay:6.11s">1</text>
-<text x="605.5" y="118" class="c" fill="#40c463" style="animation-delay:6.11s">1</text>
+<text x="590.5" y="193" class="z" style="animation-delay:5.94s">0</text>
+<text x="605.5" y="103" class="z" style="animation-delay:6.11s">0</text>
+<text x="605.5" y="118" class="c" fill="#9be9a8" style="animation-delay:6.11s">1</text>
 <text x="605.5" y="133" class="c" fill="#40c463" style="animation-delay:6.11s">1</text>
-<text x="605.5" y="148" class="c" fill="#40c463" style="animation-delay:6.11s">1</text>
-<text x="605.5" y="163" class="c" fill="#9be9a8" style="animation-delay:6.11s">1</text>
-<text x="605.5" y="178" class="c" fill="#40c463" style="animation-delay:6.11s">1</text>
+<text x="605.5" y="148" class="c" fill="#30a14e" style="animation-delay:6.11s">1</text>
+<text x="605.5" y="163" class="c" fill="#30a14e" style="animation-delay:6.11s">1</text>
+<text x="605.5" y="178" class="c" fill="#9be9a8" style="animation-delay:6.11s">1</text>
 <text x="605.5" y="193" class="z" style="animation-delay:6.11s">0</text>
 <text x="620.5" y="103" class="z" style="animation-delay:6.28s">0</text>
-<text x="620.5" y="118" class="c" fill="#9be9a8" style="animation-delay:6.28s">1</text>
+<text x="620.5" y="118" class="c" fill="#40c463" style="animation-delay:6.28s">1</text>
 <text x="620.5" y="133" class="c" fill="#40c463" style="animation-delay:6.28s">1</text>
-<text x="620.5" y="148" class="c" fill="#30a14e" style="animation-delay:6.28s">1</text>
+<text x="620.5" y="148" class="c" fill="#40c463" style="animation-delay:6.28s">1</text>
 <text x="620.5" y="163" class="c" fill="#30a14e" style="animation-delay:6.28s">1</text>
 <text x="620.5" y="178" class="c" fill="#9be9a8" style="animation-delay:6.28s">1</text>
 <text x="620.5" y="193" class="z" style="animation-delay:6.28s">0</text>
 <text x="635.5" y="103" class="z" style="animation-delay:6.45s">0</text>
 <text x="635.5" y="118" class="c" fill="#40c463" style="animation-delay:6.45s">1</text>
 <text x="635.5" y="133" class="c" fill="#40c463" style="animation-delay:6.45s">1</text>
-<text x="635.5" y="148" class="c" fill="#40c463" style="animation-delay:6.45s">1</text>
-<text x="635.5" y="163" class="c" fill="#30a14e" style="animation-delay:6.45s">1</text>
-<text x="635.5" y="178" class="c" fill="#9be9a8" style="animation-delay:6.45s">1</text>
-<text x="635.5" y="193" class="z" style="animation-delay:6.45s">0</text>
-<text x="650.5" y="103" class="z" style="animation-delay:6.62s">0</text>
+<text x="635.5" y="148" class="c" fill="#216e39" style="animation-delay:6.45s">1</text>
+<text x="635.5" y="163" class="c" fill="#9be9a8" style="animation-delay:6.45s">1</text>
+<text x="635.5" y="178" class="c" fill="#30a14e" style="animation-delay:6.45s">1</text>
+<text x="635.5" y="193" class="c" fill="#9be9a8" style="animation-delay:6.45s">1</text>
+<text x="650.5" y="103" class="c" fill="#9be9a8" style="animation-delay:6.62s">1</text>
 <text x="650.5" y="118" class="c" fill="#40c463" style="animation-delay:6.62s">1</text>
 <text x="650.5" y="133" class="c" fill="#40c463" style="animation-delay:6.62s">1</text>
 <text x="650.5" y="148" class="c" fill="#216e39" style="animation-delay:6.62s">1</text>
-<text x="650.5" y="163" class="c" fill="#9be9a8" style="animation-delay:6.62s">1</text>
-<text x="650.5" y="178" class="c" fill="#30a14e" style="animation-delay:6.62s">1</text>
+<text x="650.5" y="163" class="c" fill="#40c463" style="animation-delay:6.62s">1</text>
+<text x="650.5" y="178" class="c" fill="#40c463" style="animation-delay:6.62s">1</text>
 <text x="650.5" y="193" class="c" fill="#9be9a8" style="animation-delay:6.62s">1</text>
 <text x="665.5" y="103" class="c" fill="#9be9a8" style="animation-delay:6.79s">1</text>
-<text x="665.5" y="118" class="c" fill="#40c463" style="animation-delay:6.79s">1</text>
+<text x="665.5" y="118" class="c" fill="#216e39" style="animation-delay:6.79s">1</text>
 <text x="665.5" y="133" class="c" fill="#40c463" style="animation-delay:6.79s">1</text>
-<text x="665.5" y="148" class="c" fill="#216e39" style="animation-delay:6.79s">1</text>
+<text x="665.5" y="148" class="c" fill="#40c463" style="animation-delay:6.79s">1</text>
 <text x="665.5" y="163" class="c" fill="#40c463" style="animation-delay:6.79s">1</text>
-<text x="665.5" y="178" class="c" fill="#40c463" style="animation-delay:6.79s">1</text>
+<text x="665.5" y="178" class="c" fill="#9be9a8" style="animation-delay:6.79s">1</text>
 <text x="665.5" y="193" class="c" fill="#9be9a8" style="animation-delay:6.79s">1</text>
 <text x="680.5" y="103" class="c" fill="#9be9a8" style="animation-delay:6.96s">1</text>
-<text x="680.5" y="118" class="c" fill="#216e39" style="animation-delay:6.96s">1</text>
+<text x="680.5" y="118" class="z" style="animation-delay:6.96s">0</text>
 <text x="680.5" y="133" class="c" fill="#40c463" style="animation-delay:6.96s">1</text>
-<text x="680.5" y="148" class="c" fill="#40c463" style="animation-delay:6.96s">1</text>
-<text x="680.5" y="163" class="c" fill="#40c463" style="animation-delay:6.96s">1</text>
-<text x="680.5" y="178" class="c" fill="#9be9a8" style="animation-delay:6.96s">1</text>
+<text x="680.5" y="148" class="z" style="animation-delay:6.96s">0</text>
+<text x="680.5" y="163" class="c" fill="#9be9a8" style="animation-delay:6.96s">1</text>
+<text x="680.5" y="178" class="c" fill="#40c463" style="animation-delay:6.96s">1</text>
 <text x="680.5" y="193" class="c" fill="#9be9a8" style="animation-delay:6.96s">1</text>
 <text x="695.5" y="103" class="c" fill="#9be9a8" style="animation-delay:7.13s">1</text>
-<text x="695.5" y="118" class="z" style="animation-delay:7.13s">0</text>
+<text x="695.5" y="118" class="c" fill="#9be9a8" style="animation-delay:7.13s">1</text>
 <text x="695.5" y="133" class="c" fill="#40c463" style="animation-delay:7.13s">1</text>
-<text x="695.5" y="148" class="z" style="animation-delay:7.13s">0</text>
-<text x="695.5" y="163" class="c" fill="#9be9a8" style="animation-delay:7.13s">1</text>
+<text x="695.5" y="148" class="c" fill="#30a14e" style="animation-delay:7.13s">1</text>
+<text x="695.5" y="163" class="c" fill="#40c463" style="animation-delay:7.13s">1</text>
 <text x="695.5" y="178" class="c" fill="#40c463" style="animation-delay:7.13s">1</text>
 <text x="695.5" y="193" class="c" fill="#9be9a8" style="animation-delay:7.13s">1</text>
-<text x="710.5" y="103" class="c" fill="#9be9a8" style="animation-delay:7.30s">1</text>
-<text x="710.5" y="118" class="c" fill="#9be9a8" style="animation-delay:7.30s">1</text>
-<text x="710.5" y="133" class="c" fill="#40c463" style="animation-delay:7.30s">1</text>
-<text x="710.5" y="148" class="c" fill="#30a14e" style="animation-delay:7.30s">1</text>
+<text x="710.5" y="103" class="z" style="animation-delay:7.30s">0</text>
+<text x="710.5" y="118" class="c" fill="#30a14e" style="animation-delay:7.30s">1</text>
+<text x="710.5" y="133" class="c" fill="#216e39" style="animation-delay:7.30s">1</text>
+<text x="710.5" y="148" class="c" fill="#40c463" style="animation-delay:7.30s">1</text>
 <text x="710.5" y="163" class="c" fill="#40c463" style="animation-delay:7.30s">1</text>
-<text x="710.5" y="178" class="c" fill="#40c463" style="animation-delay:7.30s">1</text>
-<text x="710.5" y="193" class="c" fill="#9be9a8" style="animation-delay:7.30s">1</text>
-<text x="725.5" y="103" class="z" style="animation-delay:7.47s">0</text>
-<text x="725.5" y="118" class="c" fill="#30a14e" style="animation-delay:7.47s">1</text>
-<text x="725.5" y="133" class="c" fill="#216e39" style="animation-delay:7.47s">1</text>
-<text x="725.5" y="148" class="c" fill="#40c463" style="animation-delay:7.47s">1</text>
-<text x="725.5" y="163" class="c" fill="#40c463" style="animation-delay:7.47s">1</text>
-<text x="725.5" y="178" class="z" style="animation-delay:7.47s">0</text>
-<text x="725.5" y="193" class="z" style="animation-delay:7.47s">0</text>
-<text x="740.5" y="103" class="c" fill="#9be9a8" style="animation-delay:7.64s">1</text>
+<text x="710.5" y="178" class="z" style="animation-delay:7.30s">0</text>
+<text x="710.5" y="193" class="z" style="animation-delay:7.30s">0</text>
+<text x="725.5" y="103" class="c" fill="#9be9a8" style="animation-delay:7.47s">1</text>
+<text x="725.5" y="118" class="c" fill="#9be9a8" style="animation-delay:7.47s">1</text>
+<text x="725.5" y="133" class="c" fill="#9be9a8" style="animation-delay:7.47s">1</text>
+<text x="725.5" y="148" class="c" fill="#9be9a8" style="animation-delay:7.47s">1</text>
+<text x="725.5" y="163" class="c" fill="#9be9a8" style="animation-delay:7.47s">1</text>
+<text x="725.5" y="178" class="c" fill="#9be9a8" style="animation-delay:7.47s">1</text>
+<text x="725.5" y="193" class="c" fill="#9be9a8" style="animation-delay:7.47s">1</text>
+<text x="740.5" y="103" class="c" fill="#40c463" style="animation-delay:7.64s">1</text>
 <text x="740.5" y="118" class="c" fill="#9be9a8" style="animation-delay:7.64s">1</text>
-<text x="740.5" y="133" class="c" fill="#9be9a8" style="animation-delay:7.64s">1</text>
+<text x="740.5" y="133" class="c" fill="#30a14e" style="animation-delay:7.64s">1</text>
 <text x="740.5" y="148" class="c" fill="#9be9a8" style="animation-delay:7.64s">1</text>
-<text x="740.5" y="163" class="c" fill="#9be9a8" style="animation-delay:7.64s">1</text>
-<text x="740.5" y="178" class="c" fill="#9be9a8" style="animation-delay:7.64s">1</text>
+<text x="740.5" y="163" class="c" fill="#40c463" style="animation-delay:7.64s">1</text>
+<text x="740.5" y="178" class="c" fill="#40c463" style="animation-delay:7.64s">1</text>
 <text x="740.5" y="193" class="c" fill="#9be9a8" style="animation-delay:7.64s">1</text>
-<text x="755.5" y="103" class="c" fill="#40c463" style="animation-delay:7.81s">1</text>
-<text x="755.5" y="118" class="c" fill="#9be9a8" style="animation-delay:7.81s">1</text>
-<text x="755.5" y="133" class="c" fill="#30a14e" style="animation-delay:7.81s">1</text>
-<text x="755.5" y="148" class="c" fill="#9be9a8" style="animation-delay:7.81s">1</text>
-<text x="755.5" y="163" class="c" fill="#40c463" style="animation-delay:7.81s">1</text>
-<text x="755.5" y="178" class="c" fill="#40c463" style="animation-delay:7.81s">1</text>
-<text x="755.5" y="193" class="c" fill="#9be9a8" style="animation-delay:7.81s">1</text>
-<text x="770.5" y="103" class="c" fill="#30a14e" style="animation-delay:7.98s">1</text>
-<text x="770.5" y="118" class="z" style="animation-delay:7.98s">0</text>
-<text x="770.5" y="133" class="c" fill="#40c463" style="animation-delay:7.98s">1</text>
-<text x="770.5" y="148" class="c" fill="#216e39" style="animation-delay:7.98s">1</text>
+<text x="755.5" y="103" class="c" fill="#30a14e" style="animation-delay:7.81s">1</text>
+<text x="755.5" y="118" class="z" style="animation-delay:7.81s">0</text>
+<text x="755.5" y="133" class="c" fill="#40c463" style="animation-delay:7.81s">1</text>
+<text x="755.5" y="148" class="c" fill="#216e39" style="animation-delay:7.81s">1</text>
+<text x="755.5" y="163" class="c" fill="#30a14e" style="animation-delay:7.81s">1</text>
+<text x="755.5" y="178" class="c" fill="#216e39" style="animation-delay:7.81s">1</text>
+<text x="755.5" y="193" class="c" fill="#40c463" style="animation-delay:7.81s">1</text>
+<text x="770.5" y="103" class="c" fill="#9be9a8" style="animation-delay:7.98s">1</text>
+<text x="770.5" y="118" class="c" fill="#30a14e" style="animation-delay:7.98s">1</text>
+<text x="770.5" y="133" class="c" fill="#30a14e" style="animation-delay:7.98s">1</text>
+<text x="770.5" y="148" class="c" fill="#9be9a8" style="animation-delay:7.98s">1</text>
 <text x="770.5" y="163" class="c" fill="#30a14e" style="animation-delay:7.98s">1</text>
-<text x="770.5" y="178" class="c" fill="#216e39" style="animation-delay:7.98s">1</text>
-<text x="770.5" y="193" class="c" fill="#40c463" style="animation-delay:7.98s">1</text>
+<text x="770.5" y="178" class="c" fill="#9be9a8" style="animation-delay:7.98s">1</text>
+<text x="770.5" y="193" class="c" fill="#30a14e" style="animation-delay:7.98s">1</text>
 <text x="785.5" y="103" class="c" fill="#9be9a8" style="animation-delay:8.15s">1</text>
-<text x="785.5" y="118" class="c" fill="#30a14e" style="animation-delay:8.15s">1</text>
-<text x="785.5" y="133" class="c" fill="#30a14e" style="animation-delay:8.15s">1</text>
+<text x="785.5" y="118" class="c" fill="#9be9a8" style="animation-delay:8.15s">1</text>
+<text x="785.5" y="133" class="c" fill="#9be9a8" style="animation-delay:8.15s">1</text>
 <text x="785.5" y="148" class="c" fill="#9be9a8" style="animation-delay:8.15s">1</text>
-<text x="785.5" y="163" class="c" fill="#30a14e" style="animation-delay:8.15s">1</text>
-<text x="785.5" y="178" class="c" fill="#9be9a8" style="animation-delay:8.15s">1</text>
-<text x="785.5" y="193" class="c" fill="#30a14e" style="animation-delay:8.15s">1</text>
-<text x="800.5" y="103" class="c" fill="#9be9a8" style="animation-delay:8.32s">1</text>
+<text x="785.5" y="163" class="c" fill="#9be9a8" style="animation-delay:8.15s">1</text>
+<text x="785.5" y="178" class="c" fill="#40c463" style="animation-delay:8.15s">1</text>
+<text x="785.5" y="193" class="c" fill="#40c463" style="animation-delay:8.15s">1</text>
+<text x="800.5" y="103" class="c" fill="#216e39" style="animation-delay:8.32s">1</text>
 <text x="800.5" y="118" class="c" fill="#9be9a8" style="animation-delay:8.32s">1</text>
 <text x="800.5" y="133" class="c" fill="#9be9a8" style="animation-delay:8.32s">1</text>
 <text x="800.5" y="148" class="c" fill="#9be9a8" style="animation-delay:8.32s">1</text>
-<text x="800.5" y="163" class="c" fill="#9be9a8" style="animation-delay:8.32s">1</text>
-<text x="800.5" y="178" class="c" fill="#40c463" style="animation-delay:8.32s">1</text>
-<text x="800.5" y="193" class="c" fill="#40c463" style="animation-delay:8.32s">1</text>
-<text x="815.5" y="103" class="c" fill="#216e39" style="animation-delay:8.49s">1</text>
+<text x="800.5" y="163" class="c" fill="#216e39" style="animation-delay:8.32s">1</text>
+<text x="800.5" y="178" class="c" fill="#9be9a8" style="animation-delay:8.32s">1</text>
+<text x="800.5" y="193" class="c" fill="#9be9a8" style="animation-delay:8.32s">1</text>
+<text x="815.5" y="103" class="c" fill="#9be9a8" style="animation-delay:8.49s">1</text>
 <text x="815.5" y="118" class="c" fill="#9be9a8" style="animation-delay:8.49s">1</text>
 <text x="815.5" y="133" class="c" fill="#9be9a8" style="animation-delay:8.49s">1</text>
 <text x="815.5" y="148" class="c" fill="#9be9a8" style="animation-delay:8.49s">1</text>
-<text x="815.5" y="163" class="c" fill="#216e39" style="animation-delay:8.49s">1</text>
-<text x="815.5" y="178" class="c" fill="#9be9a8" style="animation-delay:8.49s">1</text>
+<text x="815.5" y="163" class="c" fill="#9be9a8" style="animation-delay:8.49s">1</text>
+<text x="815.5" y="178" class="c" fill="#40c463" style="animation-delay:8.49s">1</text>
 <text x="815.5" y="193" class="c" fill="#9be9a8" style="animation-delay:8.49s">1</text>
 <text x="830.5" y="103" class="c" fill="#9be9a8" style="animation-delay:8.66s">1</text>
-<text x="830.5" y="118" class="c" fill="#9be9a8" style="animation-delay:8.66s">1</text>
-<text x="830.5" y="133" class="c" fill="#9be9a8" style="animation-delay:8.66s">1</text>
-<text x="830.5" y="148" class="c" fill="#9be9a8" style="animation-delay:8.66s">1</text>
+<text x="830.5" y="118" class="c" fill="#40c463" style="animation-delay:8.66s">1</text>
+<text x="830.5" y="133" class="c" fill="#216e39" style="animation-delay:8.66s">1</text>
+<text x="830.5" y="148" class="c" fill="#40c463" style="animation-delay:8.66s">1</text>
 <text x="830.5" y="163" class="c" fill="#9be9a8" style="animation-delay:8.66s">1</text>
-<text x="830.5" y="178" class="c" fill="#40c463" style="animation-delay:8.66s">1</text>
-<text x="830.5" y="193" class="c" fill="#9be9a8" style="animation-delay:8.66s">1</text>
-<text x="845.5" y="103" class="c" fill="#9be9a8" style="animation-delay:8.83s">1</text>
-<text x="845.5" y="118" class="c" fill="#40c463" style="animation-delay:8.83s">1</text>
-<text x="845.5" y="133" class="c" fill="#216e39" style="animation-delay:8.83s">1</text>
-<text x="845.5" y="148" class="c" fill="#40c463" style="animation-delay:8.83s">1</text>
-<text x="845.5" y="163" class="c" fill="#9be9a8" style="animation-delay:8.83s">1</text>
+<text x="830.5" y="178" class="z" style="animation-delay:8.66s">0</text>
+<text x="830.5" y="193" class="z" style="animation-delay:8.66s">0</text>
+<text x="845.5" y="103" class="z" style="animation-delay:8.83s">0</text>
+<text x="845.5" y="118" class="z" style="animation-delay:8.83s">0</text>
+<text x="845.5" y="133" class="z" style="animation-delay:8.83s">0</text>
+<text x="845.5" y="148" class="z" style="animation-delay:8.83s">0</text>
+<text x="845.5" y="163" class="z" style="animation-delay:8.83s">0</text>
 <text x="845.5" y="178" class="z" style="animation-delay:8.83s">0</text>
 <text x="845.5" y="193" class="z" style="animation-delay:8.83s">0</text>
 <g clip-path="url(#cl)"><g>

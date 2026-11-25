@@ -404,7 +404,7 @@ text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
 <text x="830.5" y="193" class="c" fill="#9be9a8" style="animation-delay:8.66s">1</text>
 <text x="845.5" y="103" class="c" fill="#9be9a8" style="animation-delay:8.83s">1</text>
 <text x="845.5" y="118" class="c" fill="#40c463" style="animation-delay:8.83s">1</text>
-<text x="845.5" y="133" class="z" style="animation-delay:8.83s">0</text>
+<text x="845.5" y="133" class="c" fill="#40c463" style="animation-delay:8.83s">1</text>
 <text x="845.5" y="148" class="z" style="animation-delay:8.83s">0</text>
 <text x="845.5" y="163" class="z" style="animation-delay:8.83s">0</text>
 <text x="845.5" y="178" class="z" style="animation-delay:8.83s">0</text>
@@ -421,7 +421,7 @@ text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
   <text x="669" y="231"><tspan fill="#57606a">]</tspan></text>
   <text class="a" x="685" y="231" fill="#bc4c00">compilando...</text>
   <text class="b" x="685" y="231" fill="#1a7f37">✔ build ok</text>
-  <text x="22" y="257"><tspan fill="#1a7f37">✔</tspan><tspan fill="#24292f"> 3606 contribuições compiladas</tspan><tspan fill="#57606a"> · 0 erros · 0 warnings</tspan></text>
+  <text x="22" y="257"><tspan fill="#1a7f37">✔</tspan><tspan fill="#24292f"> 3618 contribuições compiladas</tspan><tspan fill="#57606a"> · 0 erros · 0 warnings</tspan></text>
   <rect class="cur" x="845" y="245" width="8" height="15" fill="#24292f"/>
 </g>
 </svg>

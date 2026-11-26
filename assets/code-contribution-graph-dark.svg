@@ -326,9 +326,9 @@ text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
 <text x="665.5" y="178" class="c" fill="#0e4429" style="animation-delay:6.79s">1</text>
 <text x="665.5" y="193" class="c" fill="#0e4429" style="animation-delay:6.79s">1</text>
 <text x="680.5" y="103" class="c" fill="#0e4429" style="animation-delay:6.96s">1</text>
-<text x="680.5" y="118" class="z" style="animation-delay:6.96s">0</text>
+<text x="680.5" y="118" class="c" fill="#0e4429" style="animation-delay:6.96s">1</text>
 <text x="680.5" y="133" class="c" fill="#006d32" style="animation-delay:6.96s">1</text>
-<text x="680.5" y="148" class="z" style="animation-delay:6.96s">0</text>
+<text x="680.5" y="148" class="c" fill="#0e4429" style="animation-delay:6.96s">1</text>
 <text x="680.5" y="163" class="c" fill="#0e4429" style="animation-delay:6.96s">1</text>
 <text x="680.5" y="178" class="c" fill="#006d32" style="animation-delay:6.96s">1</text>
 <text x="680.5" y="193" class="c" fill="#0e4429" style="animation-delay:6.96s">1</text>
@@ -339,13 +339,13 @@ text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
 <text x="695.5" y="163" class="c" fill="#006d32" style="animation-delay:7.13s">1</text>
 <text x="695.5" y="178" class="c" fill="#006d32" style="animation-delay:7.13s">1</text>
 <text x="695.5" y="193" class="c" fill="#0e4429" style="animation-delay:7.13s">1</text>
-<text x="710.5" y="103" class="z" style="animation-delay:7.30s">0</text>
+<text x="710.5" y="103" class="c" fill="#0e4429" style="animation-delay:7.30s">1</text>
 <text x="710.5" y="118" class="c" fill="#26a641" style="animation-delay:7.30s">1</text>
 <text x="710.5" y="133" class="c" fill="#39d353" style="animation-delay:7.30s">1</text>
 <text x="710.5" y="148" class="c" fill="#006d32" style="animation-delay:7.30s">1</text>
 <text x="710.5" y="163" class="c" fill="#006d32" style="animation-delay:7.30s">1</text>
-<text x="710.5" y="178" class="z" style="animation-delay:7.30s">0</text>
-<text x="710.5" y="193" class="z" style="animation-delay:7.30s">0</text>
+<text x="710.5" y="178" class="c" fill="#0e4429" style="animation-delay:7.30s">1</text>
+<text x="710.5" y="193" class="c" fill="#0e4429" style="animation-delay:7.30s">1</text>
 <text x="725.5" y="103" class="c" fill="#0e4429" style="animation-delay:7.47s">1</text>
 <text x="725.5" y="118" class="c" fill="#0e4429" style="animation-delay:7.47s">1</text>
 <text x="725.5" y="133" class="c" fill="#0e4429" style="animation-delay:7.47s">1</text>
@@ -361,7 +361,7 @@ text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
 <text x="740.5" y="178" class="c" fill="#006d32" style="animation-delay:7.64s">1</text>
 <text x="740.5" y="193" class="c" fill="#0e4429" style="animation-delay:7.64s">1</text>
 <text x="755.5" y="103" class="c" fill="#26a641" style="animation-delay:7.81s">1</text>
-<text x="755.5" y="118" class="z" style="animation-delay:7.81s">0</text>
+<text x="755.5" y="118" class="c" fill="#0e4429" style="animation-delay:7.81s">1</text>
 <text x="755.5" y="133" class="c" fill="#006d32" style="animation-delay:7.81s">1</text>
 <text x="755.5" y="148" class="c" fill="#39d353" style="animation-delay:7.81s">1</text>
 <text x="755.5" y="163" class="c" fill="#26a641" style="animation-delay:7.81s">1</text>
@@ -405,7 +405,7 @@ text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
 <text x="845.5" y="103" class="c" fill="#0e4429" style="animation-delay:8.83s">1</text>
 <text x="845.5" y="118" class="c" fill="#006d32" style="animation-delay:8.83s">1</text>
 <text x="845.5" y="133" class="c" fill="#006d32" style="animation-delay:8.83s">1</text>
-<text x="845.5" y="148" class="z" style="animation-delay:8.83s">0</text>
+<text x="845.5" y="148" class="c" fill="#006d32" style="animation-delay:8.83s">1</text>
 <text x="845.5" y="163" class="z" style="animation-delay:8.83s">0</text>
 <text x="845.5" y="178" class="z" style="animation-delay:8.83s">0</text>
 <text x="845.5" y="193" class="z" style="animation-delay:8.83s">0</text>
@@ -421,7 +421,7 @@ text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
   <text x="669" y="231"><tspan fill="#8b949e">]</tspan></text>
   <text class="a" x="685" y="231" fill="#ffa657">compilando...</text>
   <text class="b" x="685" y="231" fill="#39d353">✔ build ok</text>
-  <text x="22" y="257"><tspan fill="#39d353">✔</tspan><tspan fill="#c9d1d9"> 3618 contribuições compiladas</tspan><tspan fill="#8b949e"> · 0 erros · 0 warnings</tspan></text>
+  <text x="22" y="257"><tspan fill="#39d353">✔</tspan><tspan fill="#c9d1d9"> 3649 contribuições compiladas</tspan><tspan fill="#8b949e"> · 0 erros · 0 warnings</tspan></text>
   <rect class="cur" x="845" y="245" width="8" height="15" fill="#c9d1d9"/>
 </g>
 </svg>
